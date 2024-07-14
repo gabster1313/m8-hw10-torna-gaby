@@ -32,11 +32,11 @@ body {
   text-align: center;
 }
 
-.article__link {
+.header__logo,.header__link,.article__link {
   text-decoration: none;
 }
 
-.article__link:hover {
+a:hover {
   text-decoration: underline;
 }
 
